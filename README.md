@@ -5,6 +5,7 @@ A simple Alexa-like virtual assistant called Hope
 ## Introduction
 
 Hope is a Python-based virtual assistant designed to perform various tasks and assist with voice commands. It uses speech recognition, text-to-speech capabilities, and several Python libraries to carry out functions such as playing music, providing information, taking notes, sending messages, and more.
+
 This is partly based on the TV series "Supergirl," where Hope is an assistant program created by Lena Luthor.
 
 ## Prerequisites
