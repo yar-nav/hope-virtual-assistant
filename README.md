@@ -64,3 +64,8 @@ Here are some of the functions Hope Virtual Assistant can perform:
 ## Contributions
 
 Feel free to contribute to this project by adding new features or improving existing ones. We welcome any suggestions and contributions to make Hope even more capable.
+
+## Credits
+
+- Creator: yarnav (yar-nav)
+
